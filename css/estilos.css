@@ -1,0 +1,56 @@
+body{
+    background-image: url(HELLO\ KITTY.jpeg)
+
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.div1 {
+    background-color: rgb(179, 247, 205);
+    margin: 100px;
+    border: rgb(10, 182, 124) dashed;
+    padding: 10px
+    
+}
+
+.div2 {
+    background-color: rgb(148, 230, 202) ;
+    margin: 40px;
+    border: rgb(50, 117, 95) dashed;
+    padding: 10px
+}
+
+.div3 {
+    background-color: rgb(229, 166, 176);
+    margin: 10px;
+    border: rgb(233, 90, 113) dashed;
+    padding: 40px;
+}
+
+.div4 {
+    background-color: rgb(223, 167, 245);
+    margin: 10px;
+    border: rgb(193, 90, 233) dashed;
+    padding: 40px;
+}
+
+.div5 {
+    background-color: rgb(165, 119, 209);
+    margin: 10px;
+    border: rgb(94, 33, 151) dashed;
+    padding: 40px;
+}
+
+.div6 {
+    background-image: url(kromi.jpg_.webp);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    margin: 40px;
+    border: rgb(21, 20, 71) dashed;
+    padding: 20px;
+
+}
+
